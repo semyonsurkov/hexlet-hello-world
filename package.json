@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-hello-world",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "This is my tmp project for training in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Semyon Surkov",
+  "license": "ISC"
+}
